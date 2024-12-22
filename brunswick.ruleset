@@ -29,7 +29,7 @@ ruler_titles = {
 }
 
 flag         = "brunswick"
-flag_alt     = "-"
+flag_alt     = "ukraine"
 style        = "European"
 
 init_techs = ""
